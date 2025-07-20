@@ -1,0 +1,4 @@
+REGEDIT4
+  
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\IMM]
+"LoadIMM"=dword:00000000
